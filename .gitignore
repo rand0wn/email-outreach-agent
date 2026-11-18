@@ -6,3 +6,11 @@ dist/
 *.csv
 *.json
 .DS_Store
+
+# Editor config and font files (never commit)
+.vscode/
+*.woff
+*.woff2
+*.ttf
+*.otf
+*.eot
